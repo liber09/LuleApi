@@ -689,6 +689,9 @@ main .opening-hours {
   font-weight: bold;
   word-spacing: 2em;
 }
+main .hours {
+  margin-bottom: 2rem;
+}
 main .avikande {
   word-spacing: 0px;
 }
