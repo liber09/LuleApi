@@ -16,6 +16,7 @@ async function movieRows() {
         
         const title = document.createElement("h2");
         title.innerHTML = element.title;
+        img.alt = element.title;
 
         const tickets = document.createElement("a");
         tickets.innerText = "Biljetter";
