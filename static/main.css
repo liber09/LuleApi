@@ -267,6 +267,9 @@ main section .asked-title {
   font-size: large;
   margin-bottom: 1em;
 }
+main section .ticket-question {
+  color: black;
+}
 main section .answer {
   font-size: medium;
   margin-bottom: 0.5em;
